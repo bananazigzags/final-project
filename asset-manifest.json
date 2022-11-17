@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/final-project/static/css/main.c5499a86.css",
-    "main.js": "/final-project/static/js/main.ef2befed.js",
-    "index.html": "/final-project/index.html",
-    "main.c5499a86.css.map": "/final-project/static/css/main.c5499a86.css.map",
-    "main.ef2befed.js.map": "/final-project/static/js/main.ef2befed.js.map"
+    "main.css": "/movie-challenge/static/css/main.70e55f18.css",
+    "main.js": "/movie-challenge/static/js/main.93336deb.js",
+    "static/js/951.d794b9e1.chunk.js": "/movie-challenge/static/js/951.d794b9e1.chunk.js",
+    "static/js/94.9e60a826.chunk.js": "/movie-challenge/static/js/94.9e60a826.chunk.js",
+    "index.html": "/movie-challenge/index.html",
+    "main.70e55f18.css.map": "/movie-challenge/static/css/main.70e55f18.css.map",
+    "main.93336deb.js.map": "/movie-challenge/static/js/main.93336deb.js.map",
+    "951.d794b9e1.chunk.js.map": "/movie-challenge/static/js/951.d794b9e1.chunk.js.map",
+    "94.9e60a826.chunk.js.map": "/movie-challenge/static/js/94.9e60a826.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5499a86.css",
-    "static/js/main.ef2befed.js"
+    "static/css/main.70e55f18.css",
+    "static/js/main.93336deb.js"
   ]
 }
